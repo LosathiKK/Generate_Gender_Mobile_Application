@@ -1,6 +1,8 @@
 # Generate_Gender_Mobile_Application
 Mobile Application Development Module Tutorial 4
 
++ This mobile app generates the gender of the given name.
+
 ![gender](https://github.com/LosathiKK/Generate_Gender_Mobile_Application/assets/99089122/78309649-725c-4c69-8331-d6429a1dcaeb) 
 Application Main Interface
 
