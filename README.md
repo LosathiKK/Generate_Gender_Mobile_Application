@@ -9,3 +9,6 @@ Gender = Female
 
 ![male](https://github.com/LosathiKK/Generate_Gender_Mobile_Application/assets/99089122/36c26059-804f-4397-bc98-5839bc3e38b7)
 Gender = Male
+
+Used Dart Packages:
+
