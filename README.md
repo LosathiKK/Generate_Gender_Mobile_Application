@@ -11,4 +11,8 @@ Gender = Female
 Gender = Male
 
 Used Dart Packages:
-
+- dio: ^5.3.0
+- retrofit: ^4.0.1
+- json_annotation: ^4.8.1
+- logger: ^2.0.1
+- http: ^1.1.0
